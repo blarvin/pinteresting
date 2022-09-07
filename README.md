@@ -16,7 +16,7 @@ Users can:
 
 # Attributions
 
-1. Loading Spiner<br>
+1. Loading Spinner<br>
    Will<br>
    https://codepen.io/wiiiiilllllll/pen/Cjtcd
 
