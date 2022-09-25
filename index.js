@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // create pin image url input
   const imageUrl = document.createElement("input");
-  imageUrl.placeholder = "Image URL";
+  imageUrl.placeholder = "HELLO ELEANORA";
   imageUrl.type = "url";
   imageUrl.required = true;
 
