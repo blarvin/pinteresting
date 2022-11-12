@@ -7,10 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // URL = `http://localhost:${PORT}/pins`;
 
   // Heroku URL:
-  // URL = "https://shrouded-savannah-12292.herokuapp.com/api/v1/pins";
-
-  // Netlify Function token-hider
-  URL = "http://localhost:9999/.netlify/functions/function-uploadcare-CRUD"
+  URL = "https://shrouded-savannah-12292.herokuapp.com/api/v1/pins";
 
   //////////////////////////////// FORM START ///////////////////////////////////
   // create form for posting a pin
